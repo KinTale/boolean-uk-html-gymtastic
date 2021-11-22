@@ -34,17 +34,6 @@
     text-decoration: none;
   }
   
-  .header ul {
-    text-decoration: none;
-    margin-left: 20px;
-  }
-  
-  .header ul li {
-    margin-right: 20px;
-    text-decoration: none;
-  }
-  
-
 /* Page Body */
 
   .top-section .logo, h2 {
@@ -118,9 +107,7 @@
     box-shadow: 2px 2px 5px #888888;
   }
 
-  hr {
-    border-top:1.5px solid #0088ba;
-  }
+ 
 
   /* Testimonials */
   .testimonial h2 {
@@ -135,7 +122,7 @@
     box-shadow: 2px 5px 5px #0088ba;
     padding: 25px 50px 10px 50px;
     margin: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
     text-align: center; 
    }
 
@@ -147,6 +134,7 @@
      color: #0088ba;
      font-size: 18px;
    }
+
 
   /* Bottom page links */
 
@@ -175,7 +163,6 @@
     
   }
 
-
   /* About us page */
 .about-body{
   display: inline-block;
@@ -199,14 +186,6 @@
    padding-bottom: 30px;
  }
 
-  }
-  .locations p {
-    text-align: left;
-    width: 360px;
-    padding: 30px;
-    margin-bottom: 20px;
-  }
-
   .location1, .location2, .location3 {
     display: inline-block;
     box-sizing:content-box;
@@ -216,9 +195,9 @@
     padding: 25px 50px 10px 50px;
     margin: 10px;
     text-align: center; 
+    margin-bottom: 15px;
     
    }
-
   
    .locations span {
      color: #0088ba;
@@ -226,7 +205,7 @@
    }
 
    .locations ul li {
-    list-style:  none;
+    list-style: none;
    }
 
 
